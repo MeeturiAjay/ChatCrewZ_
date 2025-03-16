@@ -22,7 +22,6 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 [![Onboarding Screen 2](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225250.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225250.jpg)  
 [![Onboarding Screen 3](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)  
 
-## 🔑 Authentication Screens  
 
 ### 📝 Register Screen  
 [![Register Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)  
