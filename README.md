@@ -1,41 +1,50 @@
-# group_chatapp_flutter_firebase
-Group based chat app in Flutter and Firebase with Cloudfirestore, Firebase Auth and StreamBuilders 🔥
+# ChatCrewZ  
 
-# Overview
-Welcome to the master class of flutter and firebase in which we will create a chat app from scratch. Today you're going to learn the best practices when it comes to enabling firebase for your flutter project.
+ChatCrewZ is a dynamic and intuitive real-time chat application developed using **Flutter** with **Firebase** as the backend infrastructure.  
 
+## 🚀 Features  
 
-## [Watch it on YouTube](https://youtu.be/Qwk5oIAkgnY)
- 
- ## SETTING IT UP
- 1. Add firbease to this project and do check the google-services.json and GoogleServices-Info.plist file
- 2. Now run the app 
- 
- 
+✅ **Onboarding Experience** – Engage users with 3 interactive onboarding screens.  
+✅ **Authentication** – Secure user registration and login with Firebase verification.  
+✅ **Home Page** – View and manage your joined crews.  
+✅ **Profile Management** – Edit profile details seamlessly.  
+✅ **Navigation Drawer** – Quick access to Logout, Groups (Home Page), and Profile.  
+✅ **Real-time Chat** – Instant messaging powered by Firebase.  
+✅ **Search Functionality** – Find specific crews efficiently.  
+✅ **Group Info** – Get insights into group details and manage memberships.  
 
+---  
 
-![App UI](gitimages/chatapp.png)
+## 📸 Screenshots  
 
-Happy Learning 👍
+### 🏠 Onboarding Screens  
+Introduce users to the app with interactive screens.  
+![Onboarding Screen 1](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123213.png)  
+![Onboarding Screen 2](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123329.png)  
+![Onboarding Screen 3](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123344.png)  
 
-<br>
- 
-Subscribe Now! <a href="https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg">BackSlash Flutter YouTube Channel</a>
-Show some :heart: and star the repo to support the project
+### 🔑 Authentication  
+Secure login and sign-up with Firebase verification.  
+![Login Screen](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123401.png)  
 
-[![GitHub stars](https://img.shields.io/github/stars/backslashflutter/userlocation-flutter.svg?style=social&label=Star)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub forks](https://img.shields.io/github/forks/backslashflutter/userlocation-flutter.svg?style=social&label=Fork)](https://github.com/backslashflutter/userlocation-flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/backslashflutter/userlocation-flutter.svg?style=social&label=Watch)](https://github.com/backslashflutter/userlocation-flutter) [![GitHub followers](https://img.shields.io/github/followers/backslashflutter.svg?style=social&label=Follow)](https://github.com/backslashflutter/userlocation-flutter)
-[![Reddit Follow](https://img.shields.io/reddit/user-karma/link/backslashflutter?style=social)](https://www.reddit.com/user/backslashflutter)
+### 🏡 Home Page  
+Easily manage your joined crews and chat groups.  
+![Home Page](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123459.png)  
 
+### 💬 Real-time Chat  
+Seamless and instant messaging experience.  
+![Chat Interface](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123533.png)  
 
-<h3>Stay Healthy!✨Stay Safe!🖖</h3>
- 
+### 🔍 Crew Search  
+Efficiently search for different groups.  
+![Search Screen](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123546.png)  
 
-## Note
- I do not own any of the images used in this project.
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Installation  
 
-
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/MeeturiAjay/ChatCrewZ.git
+cd ChatCrewZ
 
