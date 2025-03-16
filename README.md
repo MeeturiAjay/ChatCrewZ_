@@ -25,6 +25,8 @@ Introduce users to the app with interactive screens.
 
 ### 🔑 Authentication  
 Secure login and sign-up with Firebase verification.  
+[![Register Screen](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225301.jpg)]
+(https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225301.jpg)
 ![Login Screen](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123401.png)  
 
 ### 🏡 Home Page  
