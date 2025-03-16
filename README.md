@@ -26,10 +26,10 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 ## 🔑 Authentication Screens  
 
 ### 📝 Register Screen  
-![Register Screen](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)  
+[![Register Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)  
 
 ### 🔐 Login Screen  
-![Login Screen](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
+[![Login Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
 
 
 ### 🏡 Home Page  
