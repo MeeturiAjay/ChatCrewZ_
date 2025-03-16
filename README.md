@@ -23,10 +23,14 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 [![Onboarding Screen 3](MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)  
 
 
-### 🔑 Authentication  
-Secure login and sign-up with Firebase verification.  
-[![Register Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)
-(![Login Screen](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225304.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
+## 🔑 Authentication Screens  
+
+### 📝 Register Screen  
+![Register Screen](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)  
+
+### 🔐 Login Screen  
+![Login Screen](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
+
 
 ### 🏡 Home Page  
 Easily manage your joined crews and chat groups.  
