@@ -31,11 +31,9 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 [![Login Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
 
 ### 🏡 Home Page  
-Easily manage your joined crews and chat groups.  
 [![Home Page](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225325.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225325.jpg)  
 
 ### 💬 Real-time Chat  
-Seamless and instant messaging experience.  
 [![Chat Interface](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225349.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225349.jpg)  
 
 ### 👥 Group Info  
@@ -50,7 +48,6 @@ Seamless and instant messaging experience.
 [![Group Creation](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225419.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225419.jpg)  
 
 ### 🔍 Crew Search  
-Efficiently search for different groups.  
 [![Search Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225432.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225432.jpg)  
 
 ---
@@ -74,13 +71,3 @@ flutter run
 ```
 
 ---
-
-## 🌟 Contributing  
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve ChatCrewZ.  
-
----
-
-## 📜 License  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
