@@ -1,4 +1,4 @@
-# 🚀 ChatCrewZ - Real-Time Chat Application  
+# 🚀 ChatCrewZ - RealTime Chat Application  
 
 ChatCrewZ is a dynamic and intuitive **real-time chat application** developed using **Flutter** with **Firebase** as the backend infrastructure. It enables seamless communication with real-time messaging, group management, and a user-friendly interface.  
 
