@@ -18,15 +18,15 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 ## 📸 Screenshots  
 
 ### 🏠 Onboarding Screens  
-Introduce users to the app with interactive screens.  
-[![Onboarding Screen 1](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123329.png)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225247.jpg)
-[![Onboarding Screen 2](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123329.png)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225250.jpg)  
-[![Onboarding Screen 3](assets/Screenshots/Screenshot%202025-03-16%20123344.png)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225255.jpg)  
+[![Onboarding Screen 1](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225247.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225247.jpg)  
+[![Onboarding Screen 2](MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225250.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225250.jpg)  
+[![Onboarding Screen 3](MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225255.jpg)  
+
 
 ### 🔑 Authentication  
 Secure login and sign-up with Firebase verification.  
 [![Register Screen](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225301.jpg)
-![Login Screen](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
+(![Login Screen](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225304.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225304.jpg)  
 
 ### 🏡 Home Page  
 Easily manage your joined crews and chat groups.  
