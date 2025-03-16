@@ -34,7 +34,7 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 
 ### 🏡 Home Page  
 Easily manage your joined crews and chat groups.  
-![Home Page](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123459.png)  
+[![Home Page](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg))  
 
 ### 💬 Real-time Chat  
 Seamless and instant messaging experience.  
