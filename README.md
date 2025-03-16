@@ -34,15 +34,26 @@ ChatCrewZ is a dynamic and intuitive **real-time chat application** developed us
 
 ### 🏡 Home Page  
 Easily manage your joined crews and chat groups.  
-[![Home Page](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg))  
+[![Home Page](ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225325.jpg)
 
 ### 💬 Real-time Chat  
 Seamless and instant messaging experience.  
-![Chat Interface](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123533.png)  
+[![Chat Interface](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123533.png)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225349.jpg)
+
+### 👥 Group Info  
+[![Group Info](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225358.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225358.jpg) 
+
+### 🧑 User Profile  
+[![User Profile1](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225404.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225404.jpg)
+[![User Profile2](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225404.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225407.jpg)
+[![User Profile3](ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225404.jpg)](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225412.jpg)
+
+### 👥 Group Creation  
+[![Group Creation](MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225419.jpg)](https://raw.githubusercontent.com/MeeturiAjay/ChatCrewZ_/main/assets/Screenshots/Screenshot_20240701-225419.jpg)  
 
 ### 🔍 Crew Search  
 Efficiently search for different groups.  
-![Search Screen](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123546.png)  
+[![Search Screen](ChatCrewZ_/assets/Screenshots/Screenshot%202025-03-16%20123546.png)  ](https://github.com/MeeturiAjay/ChatCrewZ_/blob/main/assets/Screenshots/Screenshot_20240701-225432.jpg)
 
 ---
 
